@@ -119,7 +119,8 @@ Get-monitor:
 <img width="1262" height="818" alt="image" src="https://github.com/user-attachments/assets/a7b1dac0-4021-4834-8fe2-70b77c9fcbcd" />
 
 Post-login:
-<img width="1248" height="803" alt="image" src="https://github.com/user-attachments/assets/b7e497f3-614a-4405-85b5-38d3e47db374" />
+<img width="1245" height="478" alt="image" src="https://github.com/user-attachments/assets/3a0c5bde-31fe-4734-9db9-3f5cd0eed107" />
+
 
 
 Post-creating monitors for API:
