@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Logs
+logs/
+backend/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+
+database.sql
+
+# Build outputs
+frontend/dist/
+
+# Local npm/yarn error files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment overrides
+.env.local
+frontend/.env.local
+backend/.env.local

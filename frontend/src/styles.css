@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(180deg, #f7fafc 0%, #ffffff 100%);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.MuiPaper-root {
+  border-radius: 20px;
+}
