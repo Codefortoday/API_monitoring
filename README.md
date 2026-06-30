@@ -12,7 +12,7 @@ A full-stack API monitoring dashboard with user authentication, monitor creation
 - Dashboard UI for monitor management and status details
 - Responsive frontend layout
 
-##Tech Stack
+## Tech Stack Used
 - Backend: Node.js, Express, MySQL, JWT, bcrypt, Axios
 - Frontend: React, Vite, Material UI, React Router, Axios
 - Database: MySQL 
